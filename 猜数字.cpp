@@ -12,18 +12,18 @@ int main()
 	{
 		 if (num > NUM)
 		{
-			cout<< "Äã²ÂµÄÊýÐ¡ÁË";
+			cout<< "ä½ çŒœçš„æ•°å°äº†";
 			cin >> NUM;
 		}
 		else
 		{
-			cout << "Äã²ÂµÄÊý´óÁË";
+			cout << "ä½ çŒœçš„æ•°å¤§äº†";
 			cin >> NUM;
 		}
 		
 	}
 	if (num = NUM)
-			cout << "¹§Ï²Äã,´ð¶ÔÁË" << endl;
+			cout << "æ­å–œä½ ,ç­”å¯¹äº†" << endl;
 	system("pause");
 		return 0;
 }
